@@ -1,5 +1,6 @@
 # Loops
-## AIM: This repository contains examples of different types of loops in C++. 
+## AIM: 
+This repository contains examples of different types of loops in C++. 
 ## Theory: 
 Loops in programming are constructs that allow you to repeatedly execute a block of code as long as a specified condition is true. They are used to automate repetitive tasks and handle iterative processes efficiently. 
 Loops in C++ are :
@@ -18,6 +19,7 @@ Loops in C++ are :
 #### 4. Nested loops: Nested loops in C++ are loops within other loops, allowing you to perform more complex iterations. Each loop's code block can contain another loop, creating a multi-dimensional iteration pattern. for() within for(), while() within while() and even for() within while() can be used for the purpose. 
 
 ## Output:
+
   ![Screenshot 2024-08-12 065029](https://github.com/user-attachments/assets/c62ff213-a70f-4c66-988e-6ebf0dde0d13)
 
   
