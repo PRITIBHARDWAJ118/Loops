@@ -43,6 +43,20 @@ Loops in C++ are :
 
 ![Screenshot 2024-08-12 064930](https://github.com/user-attachments/assets/a1fa2482-d83e-4c21-ab57-93ffd36a9bc8)
 
+6. Numbers Printing
+
+   ![image](https://github.com/user-attachments/assets/273f8386-c4a9-4930-8f7a-d4a2528c6b6c)
+
+7. Sum of digits 
+
+![image](https://github.com/user-attachments/assets/41516f68-0b40-4c16-9f43-c4e0b9bae6f6)
+
+8. Sum of elements of matrix
+
+   ![image](https://github.com/user-attachments/assets/6ff1a272-8385-4dc1-a65e-9bd4ea087dae)
+
+
+
 ## Conclusion: 
   We learnt about loops and its various operations.
 
