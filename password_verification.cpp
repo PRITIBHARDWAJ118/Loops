@@ -1,18 +1,6 @@
-//prashant bajpai 
-//102
- /**  #include<iostream>
-using namespace std;
-int main()
-{
-    int i=1;
-    do
-    {
-       cout<<i<<endl;
-       i++;
-    } while (i<=10);
-    return 0;
-}**/ 
-//password check 
+//Priti
+//23070123103
+ //password verification  
 #include<iostream>
 #include<string>
 using namespace std;
