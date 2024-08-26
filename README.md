@@ -55,6 +55,11 @@ Loops in C++ are :
 
    ![image](https://github.com/user-attachments/assets/6ff1a272-8385-4dc1-a65e-9bd4ea087dae)
 
+9. Password verification
+
+    ![image](https://github.com/user-attachments/assets/9be8603e-d026-4e61-8cdd-58684293d4b0)
+
+
 
 
 ## Conclusion: 
